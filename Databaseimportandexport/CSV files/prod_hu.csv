@@ -1,0 +1,4 @@
+ProductId;Name;RelatedProdIds
+123;Supersecret component;321,412
+321;Something additional;
+412;Extra part;
